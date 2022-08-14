@@ -2,5 +2,9 @@ this is my java file
 1st line of java code by Dev A
 2nd line of java code by Dev B
 3rd line of java code by Dev A
+<<<<<<< HEAD
 4th line of java code by dev A
 5th line of java code by dev B
+=======
+4th line of java code by Dev B
+>>>>>>> 54fc9a24b250979ad16a4b1f63c8bc5383d554b1
